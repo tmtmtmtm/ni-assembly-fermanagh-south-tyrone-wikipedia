@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Fermanagh_and_South_Tyrone_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q5444367",
+    "start": "1973",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
